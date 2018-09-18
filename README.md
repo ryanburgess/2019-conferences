@@ -10,7 +10,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 # Conference List
 
-## [Script](https://ng-atl.org/)
+## [Ng-Atlanta](https://ng-atl.org/)
 **Where:** Atlanta
 
 **When:** 9 - 12 January, 2019
