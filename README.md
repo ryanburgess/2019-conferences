@@ -6,14 +6,17 @@ _**You can also add all conferences directly into your calendar by importing the
 
 _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-conferences/master/2019-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 
-**Feel free to [add any missing conferences](https://github.com/flxwu/2019-conferences#contributing)!**
-
 # Conference List
 
 ## [Ng-Atlanta](https://ng-atl.org/)
 **Where:** Atlanta
 
 **When:** 9 - 12 January, 2019
+    
+## [T3chFest](https://t3chfest.uc3m.es/)
+**Where:** Madrid
+
+**When:** 14 - 15 March, 2019
     
 ## Contributing
 1. Fork it
