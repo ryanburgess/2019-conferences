@@ -29,6 +29,8 @@
   },
   "homepage": "https://github.com/ryanburgess/2019-conferences#readme",
   "dependencies": {
+    "bootstrap": "^4.1.3",
+    "cjs": "0.0.11",
     "ical-generator": "^0.2.10"
   },
   "config": {

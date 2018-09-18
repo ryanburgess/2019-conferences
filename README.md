@@ -15,6 +15,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 9 - 12 January, 2019
     
+## [T3chFest](https://t3chfest.uc3m.es/)
+**Where:** Madrid
+
+**When:** 14 - 15 March, 2019
+    
 ## Contributing
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
