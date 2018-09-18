@@ -7,5 +7,15 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "T3chFest",
+    "url": "https://t3chfest.uc3m.es/",
+    "where": "Madrid",
+    "dateFrom": "03-14",
+    "dateTo": "03-15",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Spain"
   }
 ]
