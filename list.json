@@ -7,5 +7,15 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "USA"
+  },
+ {
+    "title": "JSCamp Barcelona",
+    "url": "https://jscamp.tech/",
+    "where": "Barcelona",
+    "dateFrom": "07-18",
+    "dateTo": "07-19",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "Spain"
   }
 ]
