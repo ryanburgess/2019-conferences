@@ -13,10 +13,20 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 9 - 12 January, 2019
     
+## [JS Conf Hawaii](https://www.jsconfhi.com/)
+**Where:** Hawaii
+
+**When:** 7 - 8 February, 2019
+    
 ## [T3chFest](https://t3chfest.uc3m.es/)
 **Where:** Madrid
 
 **When:** 14 - 15 March, 2019
+    
+## [JSCamp Barcelona](https://jscamp.tech/)
+**Where:** Barcelona
+
+**When:** 18 - 19 July, 2019
     
 ## Contributing
 1. Fork it

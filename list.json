@@ -27,5 +27,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "Spain"
+  },
+  {
+    "title": "JS Conf Hawaii",
+    "url": "https://www.jsconfhi.com/",
+    "where": "Hawaii",
+    "dateFrom": "02-07",
+    "dateTo": "02-08",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
