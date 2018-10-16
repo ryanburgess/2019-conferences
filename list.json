@@ -37,5 +37,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "JS Kongress",
+    "url": "https://js-kongress.com/",
+    "where": "Munich",
+    "dateFrom": "03-11",
+    "dateTo": "03-12",
+    "month": "March",
+    "submissionDeadline": "2018-11-15",
+    "country": "Germany"
   }
 ]

@@ -18,6 +18,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 7 - 8 February, 2019
     
+## [JS Kongress](https://js-kongress.com/)
+**Where:** Munich
+
+**When:** 11 - 12 March, 2019
+    
 ## [T3chFest](https://t3chfest.uc3m.es/)
 **Where:** Madrid
 
