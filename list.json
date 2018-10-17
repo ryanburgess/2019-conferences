@@ -39,6 +39,16 @@
     "country": "USA"
   },
   {
+    "title": "JS Kongress",
+    "url": "https://js-kongress.com/",
+    "where": "Munich",
+    "dateFrom": "03-11",
+    "dateTo": "03-12",
+    "month": "March",
+    "submissionDeadline": "2018-11-15",
+    "country": "Germany"
+  },
+  {
     "title": "SmashingConf San Fran",
     "url": "https://www.smashingconf.com/sf-2019/",
     "where": "San Francisco",
