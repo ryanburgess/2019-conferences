@@ -28,10 +28,25 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 14 - 15 March, 2019
     
+## [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/)
+**Where:** San Francisco
+
+**When:** 16 - 17 April, 2019
+    
+## [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/)
+**Where:** Toronto
+
+**When:** 25 - 26 June, 2019
+    
 ## [JSCamp Barcelona](https://jscamp.tech/)
 **Where:** Barcelona
 
 **When:** 18 - 19 July, 2019
+    
+## [SmashingConf Freiburg](https://www.smashingconf.com/freiburg-2019/)
+**Where:** Freiburg
+
+**When:** 9 - 10 September, 2019
     
 ## Contributing
 1. Fork it
