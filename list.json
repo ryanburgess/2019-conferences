@@ -47,5 +47,35 @@
     "month": "March",
     "submissionDeadline": "2018-11-15",
     "country": "Germany"
+  },
+  {
+    "title": "SmashingConf San Fran",
+    "url": "https://www.smashingconf.com/sf-2019/",
+    "where": "San Francisco",
+    "dateFrom": "04-16",
+    "dateTo": "04-17",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "SmashingConf Toronto",
+    "url": "https://www.smashingconf.com/toronto-2019/",
+    "where": "Toronto",
+    "dateFrom": "06-25",
+    "dateTo": "06-26",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "SmashingConf Freiburg",
+    "url": "https://www.smashingconf.com/freiburg-2019/",
+    "where": "Freiburg",
+    "dateFrom": "09-09",
+    "dateTo": "09-10",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "Germany"
   }
 ]
