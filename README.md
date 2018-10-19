@@ -28,6 +28,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 14 - 15 March, 2019
     
+## [Perf Matters](https://perfmattersconf.com/)
+**Where:** Redwood City, CA
+
+**When:** 2 - 3 April, 2019
+    
 ## [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/)
 **Where:** San Francisco
 
