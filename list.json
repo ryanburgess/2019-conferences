@@ -87,8 +87,7 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "USA"
-  }
-,
+  },
   {
     "title": "MainXchange",
     "url": "https://mainxchange.de/",
@@ -98,5 +97,15 @@
     "month": "April",
     "submissionDeadline": "2019-01-19",
     "country": "Germany"
+  },
+  {
+    "title": "Forward JS",
+    "url": "https://forwardjs.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "01-24",
+    "dateTo": "01-24",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

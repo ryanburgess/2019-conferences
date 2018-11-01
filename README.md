@@ -13,6 +13,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 9 - 12 January, 2019
     
+## [Forward JS](https://forwardjs.com/)
+**Where:** San Francisco, CA
+
+**When:** 24 - 24 January, 2019
+    
 ## [JS Conf Hawaii](https://www.jsconfhi.com/)
 **Where:** Hawaii
 
