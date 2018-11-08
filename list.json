@@ -107,5 +107,15 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Longhorn PHP",
+    "url": "https://longhornphp.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "05-02",
+    "dateTo": "05-04",
+    "month": "May",
+    "submissionDeadline": "2018-12-15",
+    "country": "USA"
   }
 ]
