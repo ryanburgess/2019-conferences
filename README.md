@@ -68,6 +68,16 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 9 - 10 September, 2019
     
+## [dotCSS ](https://2019.dotcss.io/)
+**Where:** Paris, France
+
+**When:** 4 - 4 December, 2019
+    
+## [dotJS ](https://2019.dotjs.io/)
+**Where:** Paris, France
+
+**When:** 5 - 6 December, 2019
+    
 ## Contributing
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
