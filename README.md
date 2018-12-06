@@ -53,6 +53,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 2 - 4 May, 2019
     
+## [You Gotta Love Frontend](https://www.yougottalovefrontend.com/)
+**Where:** Vilnius
+
+**When:** 16 - 17 May, 2019
+    
 ## [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/)
 **Where:** Toronto
 
