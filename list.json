@@ -119,6 +119,16 @@
     "country": "USA"
   },
   {
+    "title": "You Gotta Love Frontend",
+    "url": "https://www.yougottalovefrontend.com/",
+    "where": "Vilnius",
+    "dateFrom": "05-16",
+    "dateTo": "05-17",
+    "month": "May",
+    "submissionDeadline": "2019-02-01",
+    "country": "Lithuania"
+  },
+  {
     "title": "dotCSS ",
     "url": "https://2019.dotcss.io/",
     "where": "Paris, France",
