@@ -127,5 +127,25 @@
     "month": "May",
     "submissionDeadline": "2019-02-01",
     "country": "Lithuania"
+  },
+  {
+    "title": "dotCSS ",
+    "url": "https://2019.dotcss.io/",
+    "where": "Paris, France",
+    "dateFrom": "12-04",
+    "dateTo": "12-04",
+    "month": "December",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
+    "title": "dotJS ",
+    "url": "https://2019.dotjs.io/",
+    "where": "Paris, France",
+    "dateFrom": "12-05",
+    "dateTo": "12-06",
+    "month": "December",
+    "submissionDeadline": "",
+    "country": "France"
   }
 ]
