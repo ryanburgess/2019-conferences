@@ -227,5 +227,15 @@
     "month": "May",
     "submissionDeadline": "December 23, 2018",
     "country": "Germany"
+  },
+  {
+    "title": "JS Conf EU",
+    "url": "https://2019.jsconf.eu",
+    "where": "Berlin",
+    "dateFrom": "06-01",
+    "dateTo": "06-02",
+    "month": "June",
+    "submissionDeadline": "December 23, 2018",
+    "country": "Germany"
   }
 ]
