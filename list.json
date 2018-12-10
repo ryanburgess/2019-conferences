@@ -207,5 +207,15 @@
     "month": "December",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "CSS Day",
+    "url": "https://cssday.nl",
+    "where": "Amsterdam",
+    "dateFrom": "06-14",
+    "dateTo": "06-13",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Netherlands"
   }
 ]
