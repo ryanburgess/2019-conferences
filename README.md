@@ -68,6 +68,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 16 - 17 May, 2019
     
+## [CSS Conf EU](https://2019.cssconf.eu/)
+**Where:** Berlin
+
+**When:** 31 - 31 May, 2019
+    
 ## [CSS Day](https://cssday.nl)
 **Where:** Amsterdam
 

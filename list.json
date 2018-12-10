@@ -217,5 +217,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "Netherlands"
+  },
+  {
+    "title": "CSS Conf EU",
+    "url": "https://2019.cssconf.eu/",
+    "where": "Berlin",
+    "dateFrom": "05-31",
+    "dateTo": "05-31",
+    "month": "May",
+    "submissionDeadline": "December 23, 2018",
+    "country": "Germany"
   }
 ]
