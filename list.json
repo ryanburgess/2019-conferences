@@ -8,6 +8,16 @@
     "submissionDeadline": "",
     "country": "USA"
   },
+  {
+    "title": "AEA Seattle",
+    "url": "https://aneventapart.com/event/seattle-2019",
+    "where": "Seattle",
+    "dateFrom": "03-04",
+    "dateTo": "03-06",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
  {
     "title": "JSCamp Barcelona",
     "url": "https://jscamp.tech/",
@@ -59,6 +69,16 @@
     "country": "USA"
   },
   {
+    "title": "AEA Boston",
+    "url": "https://aneventapart.com/event/boston-2019",
+    "where": "Boston",
+    "dateFrom": "05-06",
+    "dateTo": "05-08",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "SmashingConf Toronto",
     "url": "https://www.smashingconf.com/toronto-2019/",
     "where": "Toronto",
@@ -69,6 +89,26 @@
     "country": "Canada"
   },
   {
+    "title": "AEA Washington D.C.",
+    "url": "https://aneventapart.com/event/washington-dc-2019",
+    "where": "Washington D.C.",
+    "dateFrom": "06-29",
+    "dateTo": "06-31",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "AEA Chicago",
+    "url": "https://aneventapart.com/event/chicago-2019",
+    "where": "Chicago",
+    "dateFrom": "08-26",
+    "dateTo": "08-28",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "SmashingConf Freiburg",
     "url": "https://www.smashingconf.com/freiburg-2019/",
     "where": "Freiburg",
@@ -77,6 +117,16 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "Germany"
+  },
+  {
+    "title": "AEA Denver",
+    "url": "https://aneventapart.com/event/denver-2019",
+    "where": "Denver",
+    "dateFrom": "10-28",
+    "dateTo": "10-30",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "Perf Matters",
@@ -147,5 +197,45 @@
     "month": "December",
     "submissionDeadline": "",
     "country": "France"
+  },
+  {
+    "title": "AEA San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2019",
+    "where": "San Francisco",
+    "dateFrom": "12-09",
+    "dateTo": "12-11",
+    "month": "December",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "CSS Day",
+    "url": "https://cssday.nl",
+    "where": "Amsterdam",
+    "dateFrom": "06-14",
+    "dateTo": "06-13",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
+    "title": "CSS Conf EU",
+    "url": "https://2019.cssconf.eu/",
+    "where": "Berlin",
+    "dateFrom": "05-31",
+    "dateTo": "05-31",
+    "month": "May",
+    "submissionDeadline": "December 23, 2018",
+    "country": "Germany"
+  },
+  {
+    "title": "JS Conf EU",
+    "url": "https://2019.jsconf.eu",
+    "where": "Berlin",
+    "dateFrom": "06-01",
+    "dateTo": "06-02",
+    "month": "June",
+    "submissionDeadline": "December 23, 2018",
+    "country": "Germany"
   }
 ]

@@ -23,6 +23,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 7 - 8 February, 2019
     
+## [AEA Seattle](https://aneventapart.com/event/seattle-2019)
+**Where:** Seattle
+
+**When:** 4 - 6 March, 2019
+    
 ## [JS Kongress](https://js-kongress.com/)
 **Where:** Munich
 
@@ -53,25 +58,60 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 2 - 4 May, 2019
     
+## [AEA Boston](https://aneventapart.com/event/boston-2019)
+**Where:** Boston
+
+**When:** 6 - 8 May, 2019
+    
 ## [You Gotta Love Frontend](https://www.yougottalovefrontend.com/)
 **Where:** Vilnius
 
 **When:** 16 - 17 May, 2019
+    
+## [CSS Conf EU](https://2019.cssconf.eu/)
+**Where:** Berlin
+
+**When:** 31 - 31 May, 2019
+    
+## [JS Conf EU](https://2019.jsconf.eu)
+**Where:** Berlin
+
+**When:** 1 - 2 June, 2019
+    
+## [CSS Day](https://cssday.nl)
+**Where:** Amsterdam
+
+**When:** 14 - 13 June, 2019
     
 ## [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/)
 **Where:** Toronto
 
 **When:** 25 - 26 June, 2019
     
+## [AEA Washington D.C.](https://aneventapart.com/event/washington-dc-2019)
+**Where:** Washington D.C.
+
+**When:** 29 June - 1 July, 2019
+    
 ## [JSCamp Barcelona](https://jscamp.tech/)
 **Where:** Barcelona
 
 **When:** 18 - 19 July, 2019
     
+## [AEA Chicago](https://aneventapart.com/event/chicago-2019)
+**Where:** Chicago
+
+**When:** 26 - 28 August, 2019
+    
 ## [SmashingConf Freiburg](https://www.smashingconf.com/freiburg-2019/)
 **Where:** Freiburg
 
 **When:** 9 - 10 September, 2019
+    
+## [AEA Denver](https://aneventapart.com/event/denver-2019)
+**Where:** Denver
+
+**When:** 28 - 30 October, 2019
     
 ## [dotCSS ](https://2019.dotcss.io/)
 **Where:** Paris, France
@@ -82,6 +122,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 **Where:** Paris, France
 
 **When:** 5 - 6 December, 2019
+    
+## [AEA San Francisco](https://aneventapart.com/event/san-francisco-2019)
+**Where:** San Francisco
+
+**When:** 9 - 11 December, 2019
     
 ## Contributing
 1. Fork it
