@@ -38,6 +38,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 14 - 15 March, 2019
     
+## [EmberConf](https://emberconf.com/)
+**Where:** Portland, Oregon
+
+**When:** 18 - 20 March, 2019
+    
 ## [Perf Matters](https://perfmattersconf.com/)
 **Where:** Redwood City, CA
 
