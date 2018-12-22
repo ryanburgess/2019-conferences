@@ -237,5 +237,15 @@
     "month": "June",
     "submissionDeadline": "December 23, 2018",
     "country": "Germany"
+  },
+  {
+    "title": "Nordic.ja",
+    "url": "http://nordicjs.com",
+    "where": "Stockholm",
+    "dateFrom": "10-10",
+    "dateTo": "10-11",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "Sweden"
   }
 ]
