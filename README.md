@@ -108,7 +108,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 9 - 10 September, 2019
     
-## [Nordic.ja](http://nordicjs.com)
+## [Nordic.js](http://nordicjs.com)
 **Where:** Stockholm
 
 **When:** 10 - 11 October, 2019
