@@ -39,6 +39,16 @@
     "country": "Spain"
   },
   {
+    "title": "EmberConf",
+    "url": "https://emberconf.com/",
+    "where": "Portland, Oregon",
+    "dateFrom": "03-18",
+    "dateTo": "03-20",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "JS Conf Hawaii",
     "url": "https://www.jsconfhi.com/",
     "where": "Hawaii",
