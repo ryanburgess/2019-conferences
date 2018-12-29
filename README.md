@@ -82,7 +82,12 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 **Where:** Berlin
 
 **When:** 1 - 2 June, 2019
-    
+
+## [DEVit](https://devitconf.org/)
+**Where:** Thessaloniki, Greece
+
+**When:** 9 - 10 June, 2019
+
 ## [CSS Day](https://cssday.nl)
 **Where:** Amsterdam
 
