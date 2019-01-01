@@ -257,5 +257,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "Sweden"
+  },
+  {
+    "title": "DEVit",
+    "url": "https://devitconf.org",
+    "where": "Thessaloniki",
+    "dateFrom": "06-09",
+    "dateTo": "06-10",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Greece"
   }
 ]
