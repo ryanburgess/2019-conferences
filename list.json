@@ -267,5 +267,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "Greece"
+  },
+  {
+    "title": "Reactathon",
+    "url": "https://www.reactathon.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "03-30",
+    "dateTo": "03-31",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

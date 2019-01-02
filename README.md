@@ -43,6 +43,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 18 - 20 March, 2019
     
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
+
+**When:** 30 - 31 March, 2019
+    
 ## [Perf Matters](https://perfmattersconf.com/)
 **Where:** Redwood City, CA
 
