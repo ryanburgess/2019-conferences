@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "Ng-Atlanta",
     "url": "https://ng-atl.org/",
     "where": "Atlanta",
@@ -18,7 +19,7 @@
     "submissionDeadline": "",
     "country": "USA"
   },
- {
+  {
     "title": "JSCamp Barcelona",
     "url": "https://jscamp.tech/",
     "where": "Barcelona",
@@ -277,5 +278,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "JSHeroes",
+    "url": "https://jsheroes.io/",
+    "where": "Cluj-Napoca, Romania",
+    "dateFrom": "04-11",
+    "dateTo": "04-12",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "RO"
   }
 ]
