@@ -58,6 +58,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 **When:** 3 - 3 April, 2019
     
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
+
+**When:** 11 - 12 April, 2019
+    
 ## [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/)
 **Where:** San Francisco
 
