@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/ryanburgess/2019-conferences#readme",
   "dependencies": {
+    "country-list": "^2.1.0",
     "ical-generator": "^0.2.10"
   },
   "config": {
