@@ -8,151 +8,38 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 # Conference List
 
-## [Ng-Atlanta](https://ng-atl.org/)
-**Where:** Atlanta
+| Conference | Date | Where |
+|------------|------|-------|
+| [Ng-Atlanta](https://ng-atl.org/) | 9 - 12 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta |
+| [Forward JS](https://forwardjs.com/) | 24 - 24 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
+| [JS Conf Hawaii](https://www.jsconfhi.com/) | 7 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Hawaii |
+| [AEA Seattle](https://aneventapart.com/event/seattle-2019) | 4 - 6 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Seattle |
+| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Munich |
+| [T3chFest](https://t3chfest.uc3m.es/) | 14 - 15 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Madrid |
+| [EmberConf](https://emberconf.com/) | 18 - 20 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Portland, Oregon |
+| [Reactathon](https://www.reactathon.com/) | 30 - 31 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
+| [Perf Matters](https://perfmattersconf.com/) | 2 - 3 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Redwood City, CA |
+| [MainXchange](https://mainxchange.de/) | 3 - 3 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Wuerzburg, BY |
+| [JSHeroes](https://jsheroes.io/) | 11 - 12 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ro.svg" height="16" alt="RO" /> Romania, Cluj-Napoca, Romania |
+| [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/) | 16 - 17 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco |
+| [Longhorn PHP](https://longhornphp.com/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
+| [AEA Boston](https://aneventapart.com/event/boston-2019) | 6 - 8 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Boston |
+| [You Gotta Love Frontend](https://www.yougottalovefrontend.com/) | 16 - 17 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/lt.svg" height="16" alt="Lithuania" /> Lithuania, Vilnius |
+| [CSS Conf EU](https://2019.cssconf.eu/) | 31 - 31 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Berlin |
+| [JS Conf EU](https://2019.jsconf.eu) | 1 - 2 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Berlin |
+| [DEVit](https://devitconf.org) | 9 - 10 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gr.svg" height="16" alt="Greece" /> Greece, Thessaloniki |
+| [CSS Day](https://cssday.nl) | 14 - 13 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="Netherlands" /> Netherlands, Amsterdam |
+| [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/) | 25 - 26 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ca.svg" height="16" alt="Canada" /> Canada, Toronto |
+| [AEA Washington D.C.](https://aneventapart.com/event/washington-dc-2019) | 29 June - 1 July, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Washington D.C. |
+| [JSCamp Barcelona](https://jscamp.tech/) | 18 - 19 July, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Barcelona |
+| [AEA Chicago](https://aneventapart.com/event/chicago-2019) | 26 - 28 August, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Chicago |
+| [SmashingConf Freiburg](https://www.smashingconf.com/freiburg-2019/) | 9 - 10 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Freiburg |
+| [Nordic.js](http://nordicjs.com) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="Sweden" /> Sweden, Stockholm |
+| [AEA Denver](https://aneventapart.com/event/denver-2019) | 28 - 30 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Denver |
+| [dotCSS ](https://2019.dotcss.io/) | 4 - 4 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
+| [dotJS ](https://2019.dotjs.io/) | 5 - 6 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
+| [AEA San Francisco](https://aneventapart.com/event/san-francisco-2019) | 9 - 11 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco |
 
-**When:** 9 - 12 January, 2019
-    
-## [Forward JS](https://forwardjs.com/)
-**Where:** San Francisco, CA
-
-**When:** 24 - 24 January, 2019
-    
-## [JS Conf Hawaii](https://www.jsconfhi.com/)
-**Where:** Hawaii
-
-**When:** 7 - 8 February, 2019
-    
-## [AEA Seattle](https://aneventapart.com/event/seattle-2019)
-**Where:** Seattle
-
-**When:** 4 - 6 March, 2019
-    
-## [JS Kongress](https://js-kongress.com/)
-**Where:** Munich
-
-**When:** 11 - 12 March, 2019
-    
-## [T3chFest](https://t3chfest.uc3m.es/)
-**Where:** Madrid
-
-**When:** 14 - 15 March, 2019
-    
-## [EmberConf](https://emberconf.com/)
-**Where:** Portland, Oregon
-
-**When:** 18 - 20 March, 2019
-    
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 30 - 31 March, 2019
-    
-## [Perf Matters](https://perfmattersconf.com/)
-**Where:** Redwood City, CA
-
-**When:** 2 - 3 April, 2019
-    
-## [MainXchange](https://mainxchange.de/)
-**Where:** Wuerzburg, BY
-
-**When:** 3 - 3 April, 2019
-    
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
-
-**When:** 11 - 12 April, 2019
-    
-## [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/)
-**Where:** San Francisco
-
-**When:** 16 - 17 April, 2019
-    
-## [Longhorn PHP](https://longhornphp.com/)
-**Where:** San Francisco, CA
-
-**When:** 2 - 4 May, 2019
-    
-## [AEA Boston](https://aneventapart.com/event/boston-2019)
-**Where:** Boston
-
-**When:** 6 - 8 May, 2019
-    
-## [You Gotta Love Frontend](https://www.yougottalovefrontend.com/)
-**Where:** Vilnius
-
-**When:** 16 - 17 May, 2019
-    
-## [CSS Conf EU](https://2019.cssconf.eu/)
-**Where:** Berlin
-
-**When:** 31 - 31 May, 2019
-    
-## [JS Conf EU](https://2019.jsconf.eu)
-**Where:** Berlin
-
-**When:** 1 - 2 June, 2019
-    
-## [DEVit](https://devitconf.org)
-**Where:** Thessaloniki
-
-**When:** 9 - 10 June, 2019
-    
-## [CSS Day](https://cssday.nl)
-**Where:** Amsterdam
-
-**When:** 14 - 13 June, 2019
-    
-## [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/)
-**Where:** Toronto
-
-**When:** 25 - 26 June, 2019
-    
-## [AEA Washington D.C.](https://aneventapart.com/event/washington-dc-2019)
-**Where:** Washington D.C.
-
-**When:** 29 June - 1 July, 2019
-    
-## [JSCamp Barcelona](https://jscamp.tech/)
-**Where:** Barcelona
-
-**When:** 18 - 19 July, 2019
-    
-## [AEA Chicago](https://aneventapart.com/event/chicago-2019)
-**Where:** Chicago
-
-**When:** 26 - 28 August, 2019
-    
-## [SmashingConf Freiburg](https://www.smashingconf.com/freiburg-2019/)
-**Where:** Freiburg
-
-**When:** 9 - 10 September, 2019
-    
-## [Nordic.js](http://nordicjs.com)
-**Where:** Stockholm
-
-**When:** 10 - 11 October, 2019
-    
-## [AEA Denver](https://aneventapart.com/event/denver-2019)
-**Where:** Denver
-
-**When:** 28 - 30 October, 2019
-    
-## [dotCSS ](https://2019.dotcss.io/)
-**Where:** Paris, France
-
-**When:** 4 - 4 December, 2019
-    
-## [dotJS ](https://2019.dotjs.io/)
-**Where:** Paris, France
-
-**When:** 5 - 6 December, 2019
-    
-## [AEA San Francisco](https://aneventapart.com/event/san-francisco-2019)
-**Where:** San Francisco
-
-**When:** 9 - 11 December, 2019
-    
 ## Contributing
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
