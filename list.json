@@ -288,5 +288,165 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "RO"
+  },
+  {
+    "title": "Covalence",
+    "url": "http://www.covalenceconf.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "01-16",
+    "dateTo": "01-16",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "React Iran",
+    "url": "http://reactiran.com/",
+    "where": "Tehran, Iran",
+    "dateFrom": "01-31",
+    "dateTo": "01-31",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "IRN"
+  },
+  {
+    "title": "Pause Fest",
+    "url": "https://www.pausefest.com.au/",
+    "where": "Melbourne, Australia",
+    "dateFrom": "02-06",
+    "dateTo": "02-08",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "AU"
+  },
+  {
+    "title": "c't <webdev>",
+    "url": "https://ctwebdev.de/",
+    "where": "Köln, Germany",
+    "dateFrom": "02-06",
+    "dateTo": "02-08",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
+    "title": "FrontFest",
+    "url": "https://frontfest.es/",
+    "where": "Madrid, Spain",
+    "dateFrom": "02-09",
+    "dateTo": "02-09",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
+  {
+    "title": "FrontFest",
+    "url": "https://frontfest.es/",
+    "where": "Madrid, Spain",
+    "dateFrom": "02-09",
+    "dateTo": "02-09",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "ES"
+  },
+  {
+    "title": "Frontend Developer Love",
+    "url": "http://www.frontenddeveloperlove.com/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "02-13",
+    "dateTo": "02-15",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "NL"
+  },
+  {
+    "title": "Vue.js Amsterdam",
+    "url": "https://www.vuejs.amsterdam/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "02-14",
+    "dateTo": "02-15",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "NL"
+  },
+  {
+    "title": "Agent Conf",
+    "url": "https://www.agent.sh/",
+    "where": "Dornbirn & Lech, Austria",
+    "dateFrom": "02-21",
+    "dateTo": "02-24",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "AT"
+  },
+  {
+    "title": "ng-India",
+    "url": "https://www.ng-ind.com/",
+    "where": "Gurgaon, India",
+    "dateFrom": "02-23",
+    "dateTo": "02-23",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "IN"
+  },
+  {
+    "title": "ReactFoo",
+    "url": "https://reactfoo.in/2019/",
+    "where": "Bengaluru, India",
+    "dateFrom": "03-01",
+    "dateTo": "03-02",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "IN"
+  },
+  {
+    "title": "JS Kongress",
+    "url": "https://js-kongress.com/",
+    "where": "Munich, Germany",
+    "dateFrom": "03-11",
+    "dateTo": "03-12",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
+    "title": "JS Kongress",
+    "url": "https://js-kongress.com/",
+    "where": "Munich, Germany",
+    "dateFrom": "03-11",
+    "dateTo": "03-12",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "DE"
+  },
+  {
+    "title": "UpFront",
+    "url": "https://upfrontconf.com/",
+    "where": "Manchester, U.K.",
+    "dateFrom": "03-22",
+    "dateTo": "03-22",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "UK"
+  },
+  {
+    "title": "VueConf US",
+    "url": "http://us.vuejs.org/",
+    "where": "Tampa, FL",
+    "dateFrom": "03-25",
+    "dateTo": "03-27",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "VueConf US",
+    "url": "http://us.vuejs.org/",
+    "where": "Tampa, FL",
+    "dateFrom": "03-25",
+    "dateTo": "03-27",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
