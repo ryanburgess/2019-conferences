@@ -13,7 +13,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Ng-Atlanta](https://ng-atl.org/) | 9 - 12 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta |
 | [Covalence](http://www.covalenceconf.com/) | 16 - 16 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [Forward JS](https://forwardjs.com/) | 24 - 24 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
-| [React Iran](http://reactiran.com/) | 31 - 31 January, 2019 |  undefined, Tehran, Iran |
+| [React Iran](http://reactiran.com/) | 31 - 31 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ir.svg" height="16" alt="IR" /> Iran, Islamic Republic of, Tehran, Iran |
 | [Pause Fest](https://www.pausefest.com.au/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Melbourne, Australia |
 | [c't <webdev>](https://ctwebdev.de/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Köln, Germany |
 | [JS Conf Hawaii](https://www.jsconfhi.com/) | 7 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Hawaii |
