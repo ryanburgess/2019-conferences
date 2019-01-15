@@ -1,5 +1,15 @@
 [
   {
+    "title": "New Adventures",
+    "url": "https://newadventuresconf.com/2019/",
+    "where": "Nottingham",
+    "dateFrom": "01-23",
+    "dateTo": "01-25",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "GB"
+  },
+  {
     "title": "Ng-Atlanta",
     "url": "https://ng-atl.org/",
     "where": "Atlanta",
