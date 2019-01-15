@@ -448,5 +448,55 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "JSConf US",
+    "url": "https://2019.jsconf.us",
+    "where": "Carslbad, CA",
+    "dateFrom": "08-12",
+    "dateTo": "08-14",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "The Lead Developer",
+    "url": "https://newyork2019.theleaddeveloper.com",
+    "where": "New York, NY",
+    "dateFrom": "04-30",
+    "dateTo": "04-30",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Eyeo Festival",
+    "url": "http://eyeofestival.com/",
+    "where": "Minneapolis, MN",
+    "dateFrom": "06-03",
+    "dateTo": "06-06",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Abstractions",
+    "url": "https://abstractions.io/",
+    "where": "Pittsburgh, PA",
+    "dateFrom": "08-21",
+    "dateTo": "08-23",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "React Day",
+    "url": "https://reactnewyork.com/",
+    "where": "Pittsburgh, PA",
+    "dateFrom": "09-13",
+    "dateTo": "09-13",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
