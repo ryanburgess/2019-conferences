@@ -15,8 +15,8 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [New Adventures](https://newadventuresconf.com/2019/) | 23 - 25 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB" /> United Kingdom, Nottingham |
 | [Forward JS](https://forwardjs.com/) | 24 - 24 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [React Iran](http://reactiran.com/) | 31 - 31 January, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ir.svg" height="16" alt="IR" /> Iran, Islamic Republic of, Tehran, Iran |
-| [Pause Fest](https://www.pausefest.com.au/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Melbourne, Australia |
 | [c't <webdev>](https://ctwebdev.de/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Köln, Germany |
+| [Pause Fest](https://www.pausefest.com.au/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Melbourne, Australia |
 | [JS Conf Hawaii](https://www.jsconfhi.com/) | 7 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Hawaii |
 | [FrontFest](https://frontfest.es/) | 9 - 9 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES" /> Spain, Madrid, Spain |
 | [FrontFest](https://frontfest.es/) | 9 - 9 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES" /> Spain, Madrid, Spain |
@@ -26,9 +26,9 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [ng-India](https://www.ng-ind.com/) | 23 - 23 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/in.svg" height="16" alt="IN" /> India, Gurgaon, India |
 | [ReactFoo](https://reactfoo.in/2019/) | 1 - 2 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/in.svg" height="16" alt="IN" /> India, Bengaluru, India |
 | [AEA Seattle](https://aneventapart.com/event/seattle-2019) | 4 - 6 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Seattle |
-| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
-| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
 | [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Munich |
+| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
+| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
 | [T3chFest](https://t3chfest.uc3m.es/) | 14 - 15 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Madrid |
 | [EmberConf](https://emberconf.com/) | 18 - 20 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Portland, Oregon |
 | [UpFront](https://upfrontconf.com/) | 22 - 22 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB" /> United Kingdom, Manchester, U.K. |
