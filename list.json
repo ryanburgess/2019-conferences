@@ -498,5 +498,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "New Adventures",
+    "url": "https://newadventuresconf.com/2019/",
+    "where": "Nottingham",
+    "dateFrom": "01-23",
+    "dateTo": "01-25",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "GB"
   }
 ]
