@@ -90,6 +90,16 @@
     "country": "USA"
   },
   {
+    "title": "php[tek] 2019",
+    "url": "https://tek.phparch.com/",
+    "where": "Atlanta",
+    "dateFrom": "05-21",
+    "dateTo": "05-23",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "SmashingConf Toronto",
     "url": "https://www.smashingconf.com/toronto-2019/",
     "where": "Toronto",
