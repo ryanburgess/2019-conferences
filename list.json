@@ -120,6 +120,16 @@
     "country": "USA"
   },
   {
+    "title": "CoderCruise 2019",
+    "url": "https://www.codercruise.com/",
+    "where": "Bahamas",
+    "dateFrom": "08-19",
+    "dateTo": "08-23",
+    "month": "August",
+    "submissionDeadline": "2019-03-03",
+    "country": "USA"
+  },
+  {
     "title": "AEA Chicago",
     "url": "https://aneventapart.com/event/chicago-2019",
     "where": "Chicago",
