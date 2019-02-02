@@ -19,7 +19,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Pause Fest](https://www.pausefest.com.au/) | 6 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/au.svg" height="16" alt="AU" /> Australia, Melbourne, Australia |
 | [JS Conf Hawaii](https://www.jsconfhi.com/) | 7 - 8 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Hawaii |
 | [FrontFest](https://frontfest.es/) | 9 - 9 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES" /> Spain, Madrid, Spain |
-| [FrontFest](https://frontfest.es/) | 9 - 9 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="ES" /> Spain, Madrid, Spain |
 | [Frontend Developer Love](http://www.frontenddeveloperlove.com/) | 13 - 15 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="NL" /> Netherlands, Amsterdam, Netherlands |
 | [Vue.js Amsterdam](https://www.vuejs.amsterdam/) | 14 - 15 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="NL" /> Netherlands, Amsterdam, Netherlands |
 | [Agent Conf](https://www.agent.sh/) | 21 - 24 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/at.svg" height="16" alt="AT" /> Austria, Dornbirn & Lech, Austria |
@@ -27,12 +26,9 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [ReactFoo](https://reactfoo.in/2019/) | 1 - 2 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/in.svg" height="16" alt="IN" /> India, Bengaluru, India |
 | [AEA Seattle](https://aneventapart.com/event/seattle-2019) | 4 - 6 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Seattle |
 | [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Munich |
-| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
-| [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich, Germany |
 | [T3chFest](https://t3chfest.uc3m.es/) | 14 - 15 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Madrid |
 | [EmberConf](https://emberconf.com/) | 18 - 20 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Portland, Oregon |
 | [UpFront](https://upfrontconf.com/) | 22 - 22 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB" /> United Kingdom, Manchester, U.K. |
-| [VueConf US](http://us.vuejs.org/) | 25 - 27 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Tampa, FL |
 | [VueConf US](http://us.vuejs.org/) | 25 - 27 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Tampa, FL |
 | [Reactathon](https://www.reactathon.com/) | 30 - 31 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [Perf Matters](https://perfmattersconf.com/) | 2 - 3 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Redwood City, CA |

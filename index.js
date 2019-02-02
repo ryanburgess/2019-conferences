@@ -5,6 +5,8 @@ const ical = require('ical-generator');
 const countryList = require('country-list');
 const cal = ical();
 const year = 2019;
+const items = [];
+const duplicates = [];
 let content = `# ${year} Web Development Conferences
 A list of ${year} web development conferences.
 A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-conferences).
@@ -97,20 +99,33 @@ content += `
 # Conference List
 `;
 
+Array.prototype.contains = function(obj) {
+  let i = this.length;
+  while (i--) {
+    if (this[i] == obj) {
+        return true;
+    }
+  }
+  return false;
+}
+
 // create list of conferences
 for (const conference of obj) {
-  const country = String(conference.country).trim();
-  const code = String(countryList.getCode(country.replace('USA', 'United States')) || country).toLowerCase();
-  const flag = code.length === 2 ? `<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/${code}.svg" height="16" alt="${conference.country}" />` : '';
-  if( conference.dateFrom.length !== 5 ) process.exit( console.log(`${conference.title} - dateFrom: ${messages.fail.char}`) );
-  if( conference.dateTo.length !== 0 && conference.dateTo.length !== 5 ) process.exit( console.log(`${conference.title} - dateTo: ${messages.fail.char}`) );
-  let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
+  if(!items.contains(conference.title)){
+    items.push(conference.title);
+    const country = String(conference.country).trim();
+    const code = String(countryList.getCode(country.replace('USA', 'United States')) || country).toLowerCase();
+    const flag = code.length === 2 ? `<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/${code}.svg" height="16" alt="${conference.country}" />` : '';
+    if( conference.dateFrom.length !== 5 ) process.exit( console.log(`${conference.title} - dateFrom: ${messages.fail.char}`) );
+    if( conference.dateTo.length !== 0 && conference.dateTo.length !== 5 ) process.exit( console.log(`${conference.title} - dateTo: ${messages.fail.char}`) );
+    let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
 
-  rows.push([
-    `[${conference.title}](${conference.url})`,
-    humanReadableDate,
-    `${flag} ${countryList.getName(code)}, ${conference.where}`,
-  ]);
+    rows.push([
+      `[${conference.title}](${conference.url})`,
+      humanReadableDate,
+      `${flag} ${countryList.getName(code)}, ${conference.where}`,
+    ]);
+  }
 }
 
 content += `
