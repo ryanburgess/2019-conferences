@@ -25,6 +25,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [ng-India](https://www.ng-ind.com/) | 23 - 23 February, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/in.svg" height="16" alt="IN" /> India, Gurgaon, India |
 | [ReactFoo](https://reactfoo.in/2019/) | 1 - 2 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/in.svg" height="16" alt="IN" /> India, Bengaluru, India |
 | [AEA Seattle](https://aneventapart.com/event/seattle-2019) | 4 - 6 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Seattle |
+| [Midwest PHP](https://2019.midwestphp.org/) | 8 - 9 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Minneapolis, MN |
 | [JS Kongress](https://js-kongress.com/) | 11 - 12 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Munich |
 | [T3chFest](https://t3chfest.uc3m.es/) | 14 - 15 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Madrid |
 | [EmberConf](https://emberconf.com/) | 18 - 20 March, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Portland, Oregon |

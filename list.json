@@ -528,5 +528,15 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "GB"
+  },
+  {
+    "title": "Midwest PHP",
+    "url": "https://2019.midwestphp.org/",
+    "where": "Minneapolis, MN",
+    "dateFrom": "03-08",
+    "dateTo": "03-09",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
