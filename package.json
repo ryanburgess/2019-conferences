@@ -2,9 +2,9 @@
   "name": "2019-conferences",
   "version": "0.0.0",
   "description": "A list of 2019 web development conferences",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
-    "build": "node index"
+    "build": "node build"
   },
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "node index"
+      "pre-commit": "node build"
     }
   },
   "devDependencies": {}
