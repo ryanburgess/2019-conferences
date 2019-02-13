@@ -538,5 +538,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "RevolutionConf",
+    "url": "https://revolutionconf.com/",
+    "where": "Virginia Beach, VA",
+    "dateFrom": "06-06",
+    "dateTo": "06-07",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
