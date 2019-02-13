@@ -548,5 +548,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "React Day New York",
+    "url": "https://reactnewyork.com/",
+    "where": "New York, NY",
+    "dateFrom": "09-13",
+    "dateTo": "09-13",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
