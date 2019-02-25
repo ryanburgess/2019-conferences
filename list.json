@@ -1,5 +1,15 @@
 [
   {
+    "title": "SouthernDev",
+    "url": "http://southerndev.co",
+    "where": "Augusta",
+    "dateFrom": "04-27",
+    "dateTo": "04-27",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "DevTernity",
     "url": "https://devternity.com",
     "where": "Riga",
@@ -8,7 +18,7 @@
     "month": "December",
     "submissionDeadline": "",
     "country": "Latvia"
-  },    
+  },
   {
     "title": "Ng-Atlanta",
     "url": "https://ng-atl.org/",
