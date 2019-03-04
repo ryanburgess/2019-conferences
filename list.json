@@ -568,5 +568,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "JSDayIE",
+    "url": "https://www.jsday.org/",
+    "where": "Dublin, Ireland",
+    "dateFrom": "09-20",
+    "dateTo": "09-20",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "IE"
   }
 ]
