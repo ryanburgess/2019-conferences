@@ -10,6 +10,16 @@
     "country": "USA"
   },
   {
+    "title": "Uenoland",
+    "url": "https://ueno.land/",
+    "where": "Brooklyn",
+    "dateFrom": "05-02",
+    "dateTo": "05-04",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "DevTernity",
     "url": "https://devternity.com",
     "where": "Riga",
