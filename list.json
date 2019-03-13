@@ -270,6 +270,16 @@
     "country": "USA"
   },
   {
+    "title": "DevBreak19",
+    "url": "https://www.devbreak.io/",
+    "where": "Chateau du Vivier, Paris",
+    "dateFrom": "06-14",
+    "dateTo": "06-13",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
     "title": "CSS Day",
     "url": "https://cssday.nl",
     "where": "Amsterdam",
