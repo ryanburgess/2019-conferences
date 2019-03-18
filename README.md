@@ -61,6 +61,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [React Day New York](https://reactnewyork.com/) | 13 - 13 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New York, NY |
 | [JSDayIE](https://www.jsday.org/) | 20 - 20 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ie.svg" height="16" alt="IE" /> Ireland, Dublin, Ireland |
 | [Nordic.js](http://nordicjs.com) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="Sweden" /> Sweden, Stockholm |
+| [ReactiveConf](https://reactiveconf.com/) | 30 October - 1 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/1x1/cz.svg" height="16" alt="Czech Republic" /> Prague, Czech Republic |
 | [AEA Denver](https://aneventapart.com/event/denver-2019) | 28 - 30 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Denver |
 | [dotCSS ](https://2019.dotcss.io/) | 4 - 4 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
 | [dotJS ](https://2019.dotjs.io/) | 5 - 6 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
