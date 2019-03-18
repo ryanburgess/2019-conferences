@@ -598,5 +598,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "IE"
+  },
+  {
+    "title": "ReactiveConf",
+    "url": "https://reactiveconf.com/",
+    "where": "Prague, Czech Republic",
+    "dateFrom": "10-30",
+    "dateTo": "11-01",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "CZ"
   }
 ]
