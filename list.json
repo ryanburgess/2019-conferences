@@ -618,5 +618,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "CZ"
+  },
+  {
+    "title": "React Loop",
+    "url": "https://reactloop.com/",
+    "where": "Chicago, IL",
+    "dateFrom": "06-21",
+    "dateTo": "06-21",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

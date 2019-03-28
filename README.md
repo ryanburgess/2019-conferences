@@ -50,6 +50,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [DEVit](https://devitconf.org) | 9 - 10 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gr.svg" height="16" alt="Greece" /> Greece, Thessaloniki |
 | [CSS Day](https://cssday.nl) | 14 - 13 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="Netherlands" /> Netherlands, Amsterdam |
 | [DevBreak19](https://www.devbreak.io/) | 14 - 13 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Chateau du Vivier, Paris |
+| [React Loop](https://reactloop.com/) | 21 - 21 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Chicago, IL |
 | [SmashingConf Toronto](https://www.smashingconf.com/toronto-2019/) | 25 - 26 June, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ca.svg" height="16" alt="Canada" /> Canada, Toronto |
 | [AEA Washington D.C.](https://aneventapart.com/event/washington-dc-2019) | 29 June - 1 July, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Washington D.C. |
 | [JSCamp Barcelona](https://jscamp.tech/) | 18 - 19 July, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/es.svg" height="16" alt="Spain" /> Spain, Barcelona |
