@@ -628,5 +628,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "CONNECT.TECH",
+    "url": "http://connect.tech/",
+    "where": "Atlanta, GA",
+    "dateFrom": "10-16",
+    "dateTo": "10-18",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
