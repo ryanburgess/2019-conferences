@@ -638,5 +638,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "VueConf Toronto",
+    "url": "https://vuetoronto.com",
+    "where": "Toronto, Canada",
+    "dateFrom": "11-11",
+    "dateTo": "11-12",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "Canada"
   }
 ]
