@@ -66,6 +66,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [CONNECT.TECH](http://connect.tech/) | 16 - 18 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [AEA Denver](https://aneventapart.com/event/denver-2019) | 28 - 30 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Denver |
 | [ReactiveConf](https://reactiveconf.com/) | 30 October - 1 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/cz.svg" height="16" alt="CZ" /> Czech Republic, Prague, Czech Republic |
+| [VueConf Toronto](https://vuetoronto.com/) | 11 November - 12 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ca.svg" height="16" alt="CZ" /> Canada, Toronto |
 | [dotCSS ](https://2019.dotcss.io/) | 4 - 4 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
 | [dotJS ](https://2019.dotjs.io/) | 5 - 6 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
 | [DevTernity](https://devternity.com) | 6 - 7 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/lv.svg" height="16" alt="Latvia" /> Latvia, Riga |
