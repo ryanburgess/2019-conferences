@@ -648,5 +648,15 @@
     "month": "November",
     "submissionDeadline": "",
     "country": "Canada"
+  },
+  {
+    "title": "Strange Loop",
+    "url": "https://thestrangeloop.com/",
+    "where": "St. Louis",
+    "dateFrom": "09-12",
+    "dateTo": "09-14",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
