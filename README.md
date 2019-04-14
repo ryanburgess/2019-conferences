@@ -38,8 +38,9 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/) | 16 - 17 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco |
 | [SouthernDev](http://southerndev.co) | 27 - 27 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Augusta |
 | [The Lead Developer](https://newyork2019.theleaddeveloper.com) | 30 - 30 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New York, NY |
-| [Longhorn PHP](https://longhornphp.com/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
+| [ReactJS Girls Conference](https://reactjsgirls.com/) | 2 - 3 May, 2019 |  undefined, London, UK |
 | [Uenoland](https://ueno.land/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Brooklyn |
+| [Longhorn PHP](https://longhornphp.com/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [AEA Boston](https://aneventapart.com/event/boston-2019) | 6 - 8 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Boston |
 | [You Gotta Love Frontend](https://www.yougottalovefrontend.com/) | 16 - 17 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/lt.svg" height="16" alt="Lithuania" /> Lithuania, Vilnius |
 | [php[tek] 2019](https://tek.phparch.com/) | 21 - 23 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta |

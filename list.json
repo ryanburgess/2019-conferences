@@ -658,5 +658,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "ReactJS Girls Conference",
+    "url": "https://reactjsgirls.com/",
+    "where": "London, UK",
+    "dateFrom": "05-02",
+    "dateTo": "05-03",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "GBR"
   }
 ]
