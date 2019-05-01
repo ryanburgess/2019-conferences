@@ -668,5 +668,15 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "GBR"
+  },
+  {
+    "title": "Fullstack Tech Radar Day",
+    "url": "https://fullstackradar.tikalk.com/",
+    "where": "Tel-Aviv, Israel",
+    "dateFrom": "05-15",
+    "dateTo": "05-15",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "ISR"
   }
 ]
