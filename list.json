@@ -1,5 +1,14 @@
 [
   {
+    "title": "FrontConf",
+    "url": "https://frontconf.com/",
+    "where": "Munich",
+    "dateFrom": "04-27",
+    "dateTo": "04-27",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "DE"
+  },{
     "title": "SouthernDev",
     "url": "http://southerndev.co",
     "where": "Augusta",
