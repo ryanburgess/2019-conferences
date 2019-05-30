@@ -697,5 +697,15 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "ISR"
+  },
+  {
+    "title": "Fullstack Tech Radar Day",
+    "url": "http://codelandconf.com/",
+    "where": "New York, NY",
+    "dateFrom": "07-22",
+    "dateTo": "07-22",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
