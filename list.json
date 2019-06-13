@@ -707,5 +707,15 @@
     "month": "July",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Thunderplains",
+    "url": "https://thunderplainsconf.com/",
+    "where": "Oklahoma City, OK",
+    "dateFrom": "10-22",
+    "dateTo": "10-22",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
