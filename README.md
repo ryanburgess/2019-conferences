@@ -67,7 +67,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [React Day New York](https://reactnewyork.com/) | 13 - 13 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New York, NY |
 | [We Love Speed 2019](https://www.welovespeed.com/2019/) | 20 - 20 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Lille |
 | [JSDayIE](https://www.jsday.org/) | 20 - 20 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ie.svg" height="16" alt="IE" /> Ireland, Dublin, Ireland |
-| [Dotnetos](https://conf.dotnetos.org/) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/pl.svg" height="16" alt="Poland" /> Poland, Warsaw, Poland |
+| [Dotnetos](https://conf.dotnetos.org/) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/pl.svg" height="16" alt="Poland" /> Poland, Warsaw |
 | [Nordic.js](http://nordicjs.com) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="Sweden" /> Sweden, Stockholm |
 | [CONNECT.TECH](http://connect.tech/) | 16 - 18 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
 | [Thunderplains](https://thunderplainsconf.com/) | 22 - 22 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Oklahoma City, OK |
