@@ -717,5 +717,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Dotnetos",
+    "url": "https://conf.dotnetos.org/",
+    "where": "Warsaw",
+    "dateFrom": "10-10",
+    "dateTo": "10-11",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "Poland"
   }
 ]
