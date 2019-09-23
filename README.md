@@ -36,12 +36,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [MainXchange](https://mainxchange.de/) | 3 - 3 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="Germany" /> Germany, Wuerzburg, BY |
 | [JSHeroes](https://jsheroes.io/) | 11 - 12 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ro.svg" height="16" alt="RO" /> Romania, Cluj-Napoca, Romania |
 | [SmashingConf San Fran](https://www.smashingconf.com/sf-2019/) | 16 - 17 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco |
-| [FrontConf](https://frontconf.com/) | 27 - 27 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich |
 | [SouthernDev](http://southerndev.co) | 27 - 27 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Augusta |
+| [FrontConf](https://frontconf.com/) | 27 - 27 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE" /> Germany, Munich |
 | [The Lead Developer](https://newyork2019.theleaddeveloper.com) | 30 - 30 April, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New York, NY |
 | [Uenoland](https://ueno.land/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Brooklyn |
 | [Longhorn PHP](https://longhornphp.com/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
 | [ReactJS Girls Conference](https://reactjsgirls.com/) | 2 - 3 May, 2019 |  undefined, London, UK |
+| [Longhorn PHP](https://longhornphp.com/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, San Francisco, CA |
+| [ReactJS Girls Conference](https://reactjsgirls.com/) | 2 - 3 May, 2019 |  undefined, London, UK |
+| [Uenoland](https://ueno.land/) | 2 - 4 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Brooklyn |
 | [AEA Boston](https://aneventapart.com/event/boston-2019) | 6 - 8 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Boston |
 | [Fullstack Tech Radar Day](https://fullstackradar.tikalk.com/) | 15 - 15 May, 2019 |  undefined, Tel-Aviv, Israel |
 | [You Gotta Love Frontend](https://www.yougottalovefrontend.com/) | 16 - 17 May, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/lt.svg" height="16" alt="Lithuania" /> Lithuania, Vilnius |
@@ -74,6 +77,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [Thunderplains](https://thunderplainsconf.com/) | 22 - 22 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Oklahoma City, OK |
 | [AEA Denver](https://aneventapart.com/event/denver-2019) | 28 - 30 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Denver |
 | [ReactiveConf](https://reactiveconf.com/) | 30 October - 1 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/cz.svg" height="16" alt="CZ" /> Czech Republic, Prague, Czech Republic |
+| [The Big Elixir](https://www.thebigelixir.com/) | 7 - 8 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New Orleans, LA |
 | [VueConf Toronto](https://vuetoronto.com) | 11 - 12 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ca.svg" height="16" alt="Canada" /> Canada, Toronto, Canada |
 | [dotCSS ](https://2019.dotcss.io/) | 4 - 4 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |
 | [dotJS ](https://2019.dotjs.io/) | 5 - 6 December, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Paris, France |

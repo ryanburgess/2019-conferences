@@ -8,7 +8,8 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "DE"
-  },{
+  },
+  {
     "title": "SouthernDev",
     "url": "http://southerndev.co",
     "where": "Augusta",
@@ -737,5 +738,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "Poland"
+  },
+  {
+    "title": "The Big Elixir",
+    "url": "https://www.thebigelixir.com/",
+    "where": "New Orleans, LA",
+    "dateFrom": "11-07",
+    "dateTo": "11-08",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
