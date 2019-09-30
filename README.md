@@ -68,11 +68,12 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 | [JSDayIE](https://www.jsday.org/) | 20 - 20 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ie.svg" height="16" alt="IE" /> Ireland, Dublin, Ireland |
 | [We Love Speed 2019](https://www.welovespeed.com/2019/) | 20 - 20 September, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/fr.svg" height="16" alt="France" /> France, Lille |
 | [View Source Conference](https://2019.viewsourceconf.org) | 30 September - 1 October, 2019 |  undefined, Amsterdam, NL |
+| [Grace Hopper](https://ghc.anitab.org/) | 1 - 4 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Orlando, FL |
 | [Nordic.js](http://nordicjs.com) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="Sweden" /> Sweden, Stockholm |
 | [Dotnetos](https://conf.dotnetos.org/) | 10 - 11 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/pl.svg" height="16" alt="Poland" /> Poland, Warsaw |
 | [CONNECT.TECH](http://connect.tech/) | 16 - 18 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Atlanta, GA |
-| [php[world] 2019](https://world.phparch.com/) | 22 - 25 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Washington, D.C. |
 | [Thunderplains](https://thunderplainsconf.com/) | 22 - 22 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Oklahoma City, OK |
+| [php[world] 2019](https://world.phparch.com/) | 22 - 25 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Washington, D.C. |
 | [AEA Denver](https://aneventapart.com/event/denver-2019) | 28 - 30 October, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, Denver |
 | [ReactiveConf](https://reactiveconf.com/) | 30 October - 1 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/cz.svg" height="16" alt="CZ" /> Czech Republic, Prague, Czech Republic |
 | [The Big Elixir](https://www.thebigelixir.com/) | 7 - 8 November, 2019 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="USA" /> United States, New Orleans, LA |

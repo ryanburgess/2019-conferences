@@ -758,5 +758,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "NLD"
+  },
+  {
+    "title": "Grace Hopper",
+    "url": "https://ghc.anitab.org/",
+    "where": "Orlando, FL",
+    "dateFrom": "10-01",
+    "dateTo": "10-04",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
