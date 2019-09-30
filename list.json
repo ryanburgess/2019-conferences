@@ -748,5 +748,15 @@
     "month": "November",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "View Source Conference",
+    "url": "https://2019.viewsourceconf.org",
+    "where": "Amsterdam, NL",
+    "dateFrom": "09-30",
+    "dateTo": "10-01",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "NLD"
   }
 ]
