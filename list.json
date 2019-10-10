@@ -768,5 +768,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Devfest Nantes",
+    "url": "https://devfest.gdgnantes.com/",
+    "where": "Nantes, FR",
+    "dateFrom": "10-21",
+    "dateTo": "10-22",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "France"
   }
 ]
