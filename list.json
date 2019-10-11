@@ -7,7 +7,7 @@
     "dateTo": "04-27",
     "month": "April",
     "submissionDeadline": "",
-    "country": "DE"
+    "country": "Germany"
   },
   {
     "title": "SouthernDev",
@@ -387,7 +387,7 @@
     "dateTo": "04-12",
     "month": "April",
     "submissionDeadline": "",
-    "country": "RO"
+    "country": "Romania"
   },
   {
     "title": "Covalence",
@@ -407,7 +407,7 @@
     "dateTo": "01-31",
     "month": "January",
     "submissionDeadline": "",
-    "country": "IR"
+    "country": "Iran"
   },
   {
     "title": "Pause Fest",
@@ -417,7 +417,7 @@
     "dateTo": "02-08",
     "month": "February",
     "submissionDeadline": "",
-    "country": "AU"
+    "country": "Australia"
   },
   {
     "title": "c't <webdev>",
@@ -427,7 +427,7 @@
     "dateTo": "02-08",
     "month": "February",
     "submissionDeadline": "",
-    "country": "DE"
+    "country": "Germany"
   },
   {
     "title": "FrontFest",
@@ -437,7 +437,7 @@
     "dateTo": "02-09",
     "month": "February",
     "submissionDeadline": "",
-    "country": "ES"
+    "country": "Spain"
   },
   {
     "title": "FrontFest",
@@ -447,7 +447,7 @@
     "dateTo": "02-09",
     "month": "February",
     "submissionDeadline": "",
-    "country": "ES"
+    "country": "Spain"
   },
   {
     "title": "Frontend Developer Love",
@@ -457,7 +457,7 @@
     "dateTo": "02-15",
     "month": "February",
     "submissionDeadline": "",
-    "country": "NL"
+    "country": "Netherlands"
   },
   {
     "title": "Vue.js Amsterdam",
@@ -467,7 +467,7 @@
     "dateTo": "02-15",
     "month": "February",
     "submissionDeadline": "",
-    "country": "NL"
+    "country": "Netherlands"
   },
   {
     "title": "Agent Conf",
@@ -477,7 +477,7 @@
     "dateTo": "02-24",
     "month": "February",
     "submissionDeadline": "",
-    "country": "AT"
+    "country": "Austria"
   },
   {
     "title": "ng-India",
@@ -487,7 +487,7 @@
     "dateTo": "02-23",
     "month": "February",
     "submissionDeadline": "",
-    "country": "IN"
+    "country": "India"
   },
   {
     "title": "ReactFoo",
@@ -497,7 +497,7 @@
     "dateTo": "03-02",
     "month": "March",
     "submissionDeadline": "",
-    "country": "IN"
+    "country": "India"
   },
   {
     "title": "JS Kongress",
@@ -507,7 +507,7 @@
     "dateTo": "03-12",
     "month": "March",
     "submissionDeadline": "",
-    "country": "DE"
+    "country": "Germany"
   },
   {
     "title": "JS Kongress",
@@ -517,7 +517,7 @@
     "dateTo": "03-12",
     "month": "March",
     "submissionDeadline": "",
-    "country": "DE"
+    "country": "Germany"
   },
   {
     "title": "UpFront",
@@ -527,7 +527,7 @@
     "dateTo": "03-22",
     "month": "March",
     "submissionDeadline": "",
-    "country": "GB"
+    "country": "Great Britain"
   },
   {
     "title": "VueConf US",
@@ -597,7 +597,7 @@
     "dateTo": "01-25",
     "month": "January",
     "submissionDeadline": "",
-    "country": "GB"
+    "country": "Great Britain"
   },
   {
     "title": "Midwest PHP",
@@ -637,7 +637,7 @@
     "dateTo": "09-20",
     "month": "September",
     "submissionDeadline": "",
-    "country": "IE"
+    "country": "Ireland"
   },
   {
     "title": "ReactiveConf",
@@ -647,7 +647,7 @@
     "dateTo": "11-01",
     "month": "October",
     "submissionDeadline": "",
-    "country": "CZ"
+    "country": "Czech Republic"
   },
   {
     "title": "React Loop",
@@ -697,7 +697,7 @@
     "dateTo": "05-03",
     "month": "May",
     "submissionDeadline": "",
-    "country": "GBR"
+    "country": "Great Britain"
   },
   {
     "title": "Fullstack Tech Radar Day",
@@ -707,7 +707,7 @@
     "dateTo": "05-15",
     "month": "May",
     "submissionDeadline": "",
-    "country": "ISR"
+    "country": "Israel"
   },
   {
     "title": "Fullstack Tech Radar Day",
@@ -757,7 +757,7 @@
     "dateTo": "10-01",
     "month": "September",
     "submissionDeadline": "",
-    "country": "NLD"
+    "country": "Netherlands"
   },
   {
     "title": "Grace Hopper",
@@ -768,5 +768,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Devfest Nantes",
+    "url": "https://devfest.gdgnantes.com/",
+    "where": "Nantes, FR",
+    "dateFrom": "10-21",
+    "dateTo": "10-22",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "France"
   }
 ]
